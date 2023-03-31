@@ -13,3 +13,15 @@ ARHeadsetKit is a game engine that creates immersive [augmented reality](https:/
 Headset AR became possible\* in 2020, with the iPhone 12 Pro's LiDAR scanner. This scanner captures the world in 3D using something like radar and sonar. Paired with a powerful GPU and a cheap DIY VR headset, this scanner can replicate $3,000 Microsoft HoloLens or Apple's future headset. However, ARHeadsetKit costs $0 and you can try it now.
 
 > \*Possible for the average person.
+
+Supported devices (ARHeadsetKit 2)
+- Anything that can run Metal 3 and has LiDAR
+- iPhone 12 Pro, Pro Max
+- iPhone 13 Pro, Pro Max
+- iPhone 14 Pro, Pro Max
+- iPad Pro (M1, 2021)
+- iPad Pro (M2, 2022)
+
+Supported devices (ARHeadsetKit 1)
+- Anything that can run ARKit and iOS 14
+- Apple A9 processor or higher
