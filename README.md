@@ -10,7 +10,7 @@ New README draft
 
 ARHeadsetKit is a game engine that creates immersive [augmented reality](https://en.wikipedia.org/wiki/Augmented_reality) (AR) experiences on affordable hardware. It goes beyond the conventional handheld AR, and emulates [smart glasses](https://en.wikipedia.org/wiki/Smartglasses). Headset AR - as opposed to "handheld" AR - is like a virtual reality headset, but also incorporates information from the real world. This approach upgrades AR from a 2D camera game to a 3D environment. The latter is better suited for "true" augmentation of reality.
 
-With good enough graphics, it can be hard to distinguish _reality_ from _reality as displayed inside the headset_. This means headset AR can inject virtual objects into (what we perceive as) the real world. The headset could be a sleek pair of glasses, a $3,000 industrial HoloLens, or your smartphone's [OLED](https://en.wikipedia.org/wiki/OLED) display. The applications are endless, but unrealized.
+With good enough graphics, it can be hard to distinguish _reality_ from _reality as displayed inside the headset_. This means headset AR can inject virtual objects into (what we perceive as) the real world. The headset could be a sleek pair of glasses, a $3,000 industrial HoloLens, or your smartphone's [OLED](https://en.wikipedia.org/wiki/OLED) display. The applications are endless, but not yet realized.
 
 Headset AR became possible\* in 2020, with the iPhone 12 Pro's LiDAR scanner. This scanner captures the world in 3D using something like radar and sonar. Paired with a powerful GPU and a cheap DIY VR headset, this scanner can replicate $3,000 Microsoft HoloLens or Apple's future headset. However, ARHeadsetKit costs $0 and you can try it now.
 
