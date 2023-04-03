@@ -12,8 +12,6 @@ ARHeadsetKit is a software library that creates immersive [augmented reality](ht
 
 In 2020, the iPhone 12 Pro's LiDAR scanner made headset AR accessible to the average person. This scanner captures the world in 3D using something like radar and sonar. Paired with a powerful GPU and a cheap DIY VR headset, this scanner can replicate $3,000 Microsoft HoloLens or Apple's future headset. However, ARHeadsetKit costs $0 and you can try it now.
 
-ARHeadsetKit 2 is intrinsically lower level, but more flexible and power efficient. It makes modifying the underlying algorithms for your specific needs much easier.
-
 Supported devices (ARHeadsetKit 2)
 - Anything that can run Metal 3 and has LiDAR
 - iPhone 12 Pro, Pro Max
@@ -25,3 +23,5 @@ Supported devices (ARHeadsetKit 2)
 Supported devices (ARHeadsetKit 1)
 - Anything that can run ARKit and iOS 14
 - Apple A9 processor or higher
+
+ARHeadsetKit 2 is intrinsically lower level, but more flexible and power efficient. It makes modifying the underlying algorithms for your specific needs much easier.
