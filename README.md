@@ -14,6 +14,8 @@ In 2020, headset AR became possible\* with the iPhone 12 Pro's LiDAR scanner. Th
 
 > \*Possible for the average person.
 
+ARHeadsetKit 2 is intrinsically lower level, but more flexible and power efficient. It makes modifying the underlying algorithms for your specific needs much easier.
+
 Supported devices (ARHeadsetKit 2)
 - Anything that can run Metal 3 and has LiDAR
 - iPhone 12 Pro, Pro Max
