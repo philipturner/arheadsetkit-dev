@@ -26,4 +26,4 @@ Supported devices (ARHeadsetKit 1)
 
 ARHeadsetKit 1 was higher level, had tutorials, LiDAR had barely penetrated the market...
 
-ARHeadsetKit 2 is intrinsically lower level, but more flexible and power efficient. It makes the underlying algorithms easier to modify for custom use cases.
+ARHeadsetKit 2 is intrinsically lower level, but more flexible and power efficient. It makes the underlying algorithms easier to modify for custom use cases. It also utilizes the 120 Hz displays on recent iPhones to improve the VR experience.
