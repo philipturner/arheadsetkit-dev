@@ -24,6 +24,6 @@ Supported devices (ARHeadsetKit 1)
 - Anything that can run ARKit and iOS 14
 - Apple A9 processor or higher
 
-ARHeadsetKit 1 was higher level, tutorials, LiDAR had barely penetrated the market...
+ARHeadsetKit 1 was higher level, had tutorials, LiDAR had barely penetrated the market...
 
 ARHeadsetKit 2 is intrinsically lower level, but more flexible and power efficient. It makes the underlying algorithms easier to modify for custom use cases.
